@@ -1,0 +1,1 @@
+<view><form data-event-opts="{{[['submit',[['formSubmit',['$event']]]]]}}" bindsubmit="__e"><view class="main"><view class="title">反馈内容</view><textarea name="content" placeholder="请输入反馈内容,最多200个字" auto-focus maxlength="200"></textarea></view><view class="submit"><button formType="submit">提交反馈</button></view></form></view>

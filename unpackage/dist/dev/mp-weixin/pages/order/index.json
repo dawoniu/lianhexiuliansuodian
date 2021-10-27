@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "订单中心",
+  "usingComponents": {
+    "jszd": "/components/jszd",
+    "pop": "/components/ming-pop"
+  }
+}
